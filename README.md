@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
