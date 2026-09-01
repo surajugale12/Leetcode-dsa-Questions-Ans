@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
