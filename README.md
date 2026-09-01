@@ -56,4 +56,20 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
