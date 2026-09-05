@@ -13,6 +13,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
