@@ -6,6 +6,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
 | ------- |
