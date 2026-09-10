@@ -68,11 +68,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
