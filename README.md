@@ -13,6 +13,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1046-last-stone-weight) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
