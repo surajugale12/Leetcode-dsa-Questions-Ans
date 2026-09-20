@@ -29,6 +29,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
