@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1046-last-stone-weight) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -104,6 +106,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -136,4 +139,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
