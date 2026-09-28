@@ -1,23 +1,67 @@
 class Solution {
 public:
-    string longestCommonPrefix(vector<string>& strs) {
-        
-        string s = "";
+class Trienode{
+    public: 
+    char data ; 
+    unordered_map<char, Trienode*> children;
+    bool isTerminal;
+    int childcount; 
 
-        for(int j = 0; j < strs[0].size(); j++) {
+    Trienode( char val){
+        data = val ; 
+        isTerminal = false ;
+        childcount = 0 ; 
+    }
+};
+void insertword( Trienode* root , string word){
 
-            char ch = strs[0][j];
+    if( word.length() == 0){
+      root->  isTerminal = true ;
+        return ;
+    }
+    char ch = word[0];
+    Trienode* child ; 
+    if( root-> children.find(ch) != root-> children.end()){
+        child= root -> children[ch];
 
-            for(int i = 1; i < strs.size(); i++) {
+    }
+    else{
+        child =new Trienode(ch);
+        root -> children[ch] = child ;
+        root-> childcount++;
+    }
+    insertword( child,word.substr(1));
+}
+string findlcp( Trienode* root , string word ){
 
-                if(j >= strs[i].size() || strs[i][j] != ch) {
-                    return s;
-                }
-            }
-
-            s.push_back(ch);
+    string ans = "";
+    if(root -> isTerminal){
+        return ans ;
+    }
+    for( int i =0 ; i< word.length() ; i++){
+        char ch = word[i];
+        if( root ->childcount  == 1){
+            ans.push_back(ch);
+            root = root -> children[ch];
         }
+        else{
+            break;
+        }
+        if( root -> isTerminal){
+            break;
+        }
+    }
+        return ans ;
+}
+    string longestCommonPrefix(vector<string>& strs) {
+        Trienode* root = new Trienode('-');
+    //    string s = "";
 
-        return s;
+        for( int i =0 ; i< strs.size() ; i++){
+            string str = strs[i];
+            insertword( root, str);
+        } 
+            string ans = findlcp( root , strs[0]);
+            return ans ;
     }
 };
