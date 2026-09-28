@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3498-reverse-degree-of-a-string) |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
