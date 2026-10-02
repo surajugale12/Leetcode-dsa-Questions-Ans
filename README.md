@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0014-longest-common-prefix) |
+| [0059-spiral-matrix-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3498-reverse-degree-of-a-string) |
@@ -110,6 +112,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0059-spiral-matrix-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
