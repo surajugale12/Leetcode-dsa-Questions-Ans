@@ -39,6 +39,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3498-reverse-degree-of-a-string) |
@@ -166,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -175,4 +177,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
