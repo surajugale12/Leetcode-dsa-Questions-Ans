@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
 | [1046-last-stone-weight](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1046-last-stone-weight) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -170,6 +172,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -187,4 +190,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
