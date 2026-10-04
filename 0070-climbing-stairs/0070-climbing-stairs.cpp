@@ -26,12 +26,16 @@ int usingtabulation( int n){
 
 if( n == 1) return 1 ;
 if( n == 2) return 2;
-    dp[1] = 1 ;
-    dp[2] = 2 ;
+    int prev1= 1 ;
+    int prev2 = 2 ;
+    int curr ;
       
         for( int i = 3 ; i<=n ;i++){
-             int ans = dp[i-1]+ dp[i-2];
-              dp[i] = ans ;
+             curr = prev1+ prev2;
+              dp[i] = curr ;
+
+              prev1= prev2 ;
+              prev2 = curr;
         }
    
 
