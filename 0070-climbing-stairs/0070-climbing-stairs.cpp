@@ -22,7 +22,7 @@ int usingmomosiation( int n,vector<int>& dp){
     return ans ;
 }
 int usingtabulation( int n){
-    vector<int> dp(n+1,-1);
+    // vector<int> dp(n+1,-1);
 
 if( n == 1) return 1 ;
 if( n == 2) return 2;
@@ -32,7 +32,7 @@ if( n == 2) return 2;
       
         for( int i = 3 ; i<=n ;i++){
              curr = prev1+ prev2;
-              dp[i] = curr ;
+              
 
               prev1= prev2 ;
               prev2 = curr;
@@ -40,7 +40,7 @@ if( n == 2) return 2;
    
 
 
-    return dp[n] ;
+    return curr;
 }
 
     int climbStairs(int n) {
