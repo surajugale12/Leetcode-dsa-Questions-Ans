@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0509-fibonacci-number) |
@@ -181,6 +183,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
