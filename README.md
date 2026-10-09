@@ -47,6 +47,7 @@
 | [0058-length-of-last-word](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -194,11 +196,13 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Knapsack Problem
 |  |
 | ------- |
