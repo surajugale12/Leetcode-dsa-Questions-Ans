@@ -26,6 +26,7 @@
 | [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
 | [1046-last-stone-weight](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1528-shuffle-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1528-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -51,6 +52,7 @@
 | [0058-length-of-last-word](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1528-shuffle-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
