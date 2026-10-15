@@ -20,6 +20,7 @@
 | [0059-spiral-matrix-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -140,11 +142,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
@@ -218,4 +222,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0322-coin-change) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
