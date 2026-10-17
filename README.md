@@ -33,6 +33,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2574-left-and-right-sum-differences) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3903-smallest-stable-index-i) |
@@ -43,6 +44,7 @@
 | [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -151,6 +153,7 @@
 | [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
