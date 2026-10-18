@@ -55,6 +55,7 @@
 | [0032-longest-valid-parentheses](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0067-add-binary) |
+| [0541-reverse-string-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1528-shuffle-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0075-sort-colors) |
+| [0541-reverse-string-ii](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
