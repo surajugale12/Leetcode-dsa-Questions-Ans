@@ -29,6 +29,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1528-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2574-left-and-right-sum-differences) |
@@ -155,6 +156,7 @@
 | [0169-majority-element](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/0217-contains-duplicate) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/surajugale12/Leetcode-dsa-Questions-Ans/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
